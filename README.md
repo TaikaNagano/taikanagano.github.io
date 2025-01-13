@@ -1,1 +1,1 @@
-# [GoogleSearchTest](https://taikanagano.github.io/GoogleSearchTest)
+# [GoogleSearchTest](https://github.com/taikanagano/GoogleSearchTest)

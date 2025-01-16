@@ -2,3 +2,5 @@
 
 plugins:
   - jekyll-sitemap
+
+favicon_ico: favicon.ico

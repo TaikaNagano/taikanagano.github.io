@@ -243,6 +243,13 @@ input, select, textarea {
 		text-align: right;
 	}
 
+
+.twittertimeline {
+  max-width: 40%;
+  border: 1px solid #333;
+  padding: 10px;
+}
+
 /* Row */
 
 	.row {

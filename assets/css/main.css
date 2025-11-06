@@ -136,7 +136,7 @@ input, select, textarea {
 		font-style: italic;
 	}
 
-	p {
+	p, li {
 		margin: 0 0 2.25em 0;
 		text-align: justify;
     	text-justify: inter-word;

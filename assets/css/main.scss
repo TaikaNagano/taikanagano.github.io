@@ -42,27 +42,23 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
-/* =========================================================
-   Handai Blue unified theme (Header + Sidebar + Outer area)
-   Works in Light & Dark mode
-   ========================================================= */
+/* ===== Handai Blue header + nav only (no sidebar) ===== */
+:root { --handai-blue: #2D287F; }
 
-/* Handai Blue */
-:root {
-  --handai-blue: #2D287F;
-}
-
-/* ===== HEADER (Navigation bar) ===== */
+/* Header area */
 .masthead,
 .masthead__inner-wrap,
+.masthead__inner-wrap .masthead__menu,
 .greedy-nav {
   background-color: var(--handai-blue) !important;
 }
 
+/* Text in nav */
 .masthead a,
 .masthead__title,
 .masthead__menu-item a,
-.greedy-nav a {
+.greedy-nav a,
+.greedy-nav .visible-links a {
   color: #ffffff !important;
 }
 
@@ -71,60 +67,21 @@
   color: #e5e7eb !important;
 }
 
-/* Mobile menu button */
-.greedy-nav__toggle {
-  color: #ffffff;
+/* Mobile hamburger icon */
+.greedy-nav__toggle,
+.greedy-nav__toggle:hover {
+  color: #ffffff !important;
 }
 .greedy-nav__toggle .navicon,
 .greedy-nav__toggle .navicon:before,
 .greedy-nav__toggle .navicon:after {
-  background: #ffffff;
+  background: #ffffff !important;
 }
 
 /* Mobile dropdown menu */
 .greedy-nav .hidden-links {
-  background-color: var(--handai-blue);
+  background-color: var(--handai-blue) !important;
 }
 .greedy-nav .hidden-links a {
   color: #ffffff !important;
-}
-
-/* ===== LEFT AREA + SIDEBAR ===== */
-.initial-content,
-.page__inner-wrap,
-.sidebar {
-  background-color: var(--handai-blue) !important;
-}
-
-/* Sidebar text */
-.sidebar,
-.author__name,
-.author__bio,
-.author__urls,
-.author__urls a {
-  color: #ffffff !important;
-}
-
-.author__urls a:hover {
-  color: #e5e7eb !important;
-}
-
-/* ===== MAIN CONTENT CARD ===== */
-.page__content {
-  background-color: #ffffff;
-  border-radius: 12px;
-  padding: 1.5rem;
-}
-
-/* Dark mode content */
-html[data-theme="dark"] .page__content,
-body[data-theme="dark"] .page__content {
-  background-color: #2f2f2f;
-}
-
-/* Make sure text is readable */
-html[data-theme="dark"] .page__content,
-html[data-theme="dark"] .page__content p,
-html[data-theme="dark"] .page__content li {
-  color: #e5e7eb;
 }

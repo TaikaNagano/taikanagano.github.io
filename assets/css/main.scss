@@ -41,3 +41,63 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* ===== Handai Blue (header + sidebar only) ===== */
+
+/* Header */
+.masthead,
+.greedy-nav {
+  background-color: #2D287F;
+}
+
+.masthead a,
+.masthead__title,
+.masthead__menu-item a,
+.greedy-nav a {
+  color: #FFFFFF !important;
+}
+
+.masthead a:hover,
+.greedy-nav a:hover {
+  color: #E5E7EB !important;
+}
+
+/* Mobile hamburger icon */
+.greedy-nav__toggle {
+  color: #FFFFFF;
+}
+.greedy-nav__toggle .navicon,
+.greedy-nav__toggle .navicon:before,
+.greedy-nav__toggle .navicon:after {
+  background: #FFFFFF;
+}
+
+/* Mobile dropdown menu (when collapsed) */
+.greedy-nav .hidden-links {
+  background-color: #2D287F;
+}
+.greedy-nav .hidden-links a {
+  color: #FFFFFF !important;
+}
+
+/* Sidebar */
+.sidebar {
+  background-color: #2D287F;
+  color: #E5E7EB;
+}
+.author__name { color: #FFFFFF !important; }
+.author__bio { color: #E5E7EB; }
+.author__urls a { color: #FFFFFF; }
+.author__urls a:hover { color: #E5E7EB; }
+
+/* Mobile dropdown menu list items (safer) */
+.greedy-nav .hidden-links a:hover {
+  color: #E5E7EB !important;
+}
+
+/* Ensure icons in sidebar stay visible */
+.author__urls .fa,
+.author__urls .fab,
+.author__urls .fas {
+  color: #FFFFFF;
+}

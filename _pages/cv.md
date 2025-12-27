@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ------
-* M.A. in Language and Culture, The University of Osaka (Osaka Japan), 2024
+* **M.A. in Language and Culture**, The University of Osaka (Osaka Japan), 2024
   * Thesis title: Locality Constraints on Allomorphy: Japanese Verbal Morphology in the Causative-Inchoative Alternation.
   * Committees: Masao Ochi, Akitaka Yamada, Hirotaka Nakajima
-* B.A. in Foreign Studies, Kobe City University of Foreign Studies (Hyogo, Japan), 2022
+* **B.A. in Foreign Studies**, Kobe City University of Foreign Studies (Hyogo, Japan), 2022
   * Thesis title: Syntactic Asymmetry in the Dative Alternation: A Case of the English VerbParticle Construction.
   * Committees: Norio Nasu, Franklin Chang
 
@@ -26,7 +26,7 @@ Work experience
   * Div. of Language and Culture, The University of Osaka
   * Supervisor: Prof. Yushi Sugimoto
   * Duties included: facilitating monthly meetings, proofreading an internal journal
-* Apr 2025 -- Aug 2026 (expected) \| Part-time Lecturer
+* Apr 2025 -- Aug 2026 (expected) \| Part-time Lecturer 
   * Faculty of International Studies, Setsunan University (Osaka, Japan)
   * Course description: Introductory English course for freshmen
 * Jan 2023 -- Feb 2023 \| Research Assistant

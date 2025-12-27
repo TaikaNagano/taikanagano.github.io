@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 3"
+title: "GBKP 2025, 2024"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/gbkp2025
 excerpt: 'Ms. the U of Osaka'
 date: 2015-07-01
-venue: 'GBKP'
+venue: 'Theoretical Approaches to Natural Language'
 paperurl: 'https://ir.library.osaka-u.ac.jp/repo/ouka/all/102184/'
 citation: 'Nagano, Taika (2025) "Phonological allomorphs of <i>sase</i>" <i>Gengo Bunka Kyoodoo Project 2025, 2024</i>, pp. 33--42. 1(3).'
 ---

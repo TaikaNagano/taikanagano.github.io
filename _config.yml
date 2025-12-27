@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Taika Nagano / The University of Osaka"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Taika Nagano"
+description              : &description "Linguist"
 url: "https://taikanagano.github.io"
 baseurl: ""
 repository: "TaikaNagano/taikanagano.github.io"
@@ -23,13 +23,13 @@ repository: "TaikaNagano/taikanagano.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Taika Nagano"
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Osaka"
+  employer         : "The University of Osaka"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nagano.taika@gmail.com" 
 
   # Academic websites
   academia         : # URL

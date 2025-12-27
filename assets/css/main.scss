@@ -42,62 +42,89 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
-/* ===== Handai Blue (header + sidebar only) ===== */
+/* =========================================================
+   Handai Blue unified theme (Header + Sidebar + Outer area)
+   Works in Light & Dark mode
+   ========================================================= */
 
-/* Header */
+/* Handai Blue */
+:root {
+  --handai-blue: #2D287F;
+}
+
+/* ===== HEADER (Navigation bar) ===== */
 .masthead,
+.masthead__inner-wrap,
 .greedy-nav {
-  background-color: #2D287F;
+  background-color: var(--handai-blue) !important;
 }
 
 .masthead a,
 .masthead__title,
 .masthead__menu-item a,
 .greedy-nav a {
-  color: #FFFFFF !important;
+  color: #ffffff !important;
 }
 
 .masthead a:hover,
 .greedy-nav a:hover {
-  color: #E5E7EB !important;
+  color: #e5e7eb !important;
 }
 
-/* Mobile hamburger icon */
+/* Mobile menu button */
 .greedy-nav__toggle {
-  color: #FFFFFF;
+  color: #ffffff;
 }
 .greedy-nav__toggle .navicon,
 .greedy-nav__toggle .navicon:before,
 .greedy-nav__toggle .navicon:after {
-  background: #FFFFFF;
+  background: #ffffff;
 }
 
-/* Mobile dropdown menu (when collapsed) */
+/* Mobile dropdown menu */
 .greedy-nav .hidden-links {
-  background-color: #2D287F;
+  background-color: var(--handai-blue);
 }
 .greedy-nav .hidden-links a {
-  color: #FFFFFF !important;
+  color: #ffffff !important;
 }
 
-/* Sidebar */
+/* ===== LEFT AREA + SIDEBAR ===== */
+.initial-content,
+.page__inner-wrap,
 .sidebar {
-  background-color: #2D287F;
-  color: #E5E7EB;
-}
-.author__name { color: #FFFFFF !important; }
-.author__bio { color: #E5E7EB; }
-.author__urls a { color: #FFFFFF; }
-.author__urls a:hover { color: #E5E7EB; }
-
-/* Mobile dropdown menu list items (safer) */
-.greedy-nav .hidden-links a:hover {
-  color: #E5E7EB !important;
+  background-color: var(--handai-blue) !important;
 }
 
-/* Ensure icons in sidebar stay visible */
-.author__urls .fa,
-.author__urls .fab,
-.author__urls .fas {
-  color: #FFFFFF;
+/* Sidebar text */
+.sidebar,
+.author__name,
+.author__bio,
+.author__urls,
+.author__urls a {
+  color: #ffffff !important;
+}
+
+.author__urls a:hover {
+  color: #e5e7eb !important;
+}
+
+/* ===== MAIN CONTENT CARD ===== */
+.page__content {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 1.5rem;
+}
+
+/* Dark mode content */
+html[data-theme="dark"] .page__content,
+body[data-theme="dark"] .page__content {
+  background-color: #2f2f2f;
+}
+
+/* Make sure text is readable */
+html[data-theme="dark"] .page__content,
+html[data-theme="dark"] .page__content p,
+html[data-theme="dark"] .page__content li {
+  color: #e5e7eb;
 }

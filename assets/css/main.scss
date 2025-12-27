@@ -48,3 +48,17 @@
 .greedy-nav {
   background-color: var(--global-masthead-bg-color) !important;
 }
+
+/* Fix: nav inner strip follows body background -> force it blue */
+.masthead__inner-wrap,
+.greedy-nav,
+.greedy-nav__wrapper,
+.greedy-nav .visible-links {
+  background-color: #2D287F !important;
+}
+
+/* Keep nav text white */
+.masthead a,
+.greedy-nav a {
+  color: #ffffff !important;
+}

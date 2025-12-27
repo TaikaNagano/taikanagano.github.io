@@ -109,3 +109,11 @@
 .header-nav a {
   color: #ffffff !important;
 }
+
+/* Last-resort common wrappers */
+.greedy-nav__wrapper,
+.masthead__menu,
+.masthead__menu-item,
+.masthead__menu ul {
+  background-color: var(--handai-blue) !important;
+}

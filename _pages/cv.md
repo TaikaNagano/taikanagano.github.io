@@ -65,6 +65,7 @@ Academic Services
 * Jan 2023 -- Mar 2023 \| Editor
   * KLS (Kansai Linguistic Society) Selected Papers 5 
 
+
 Fellowship
 ------
 * Apr 2026 -- Mar 2028 (expected) \| JSPS Research Fellow (DC2)
@@ -76,11 +77,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+  
 Talks
 ------
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+  
   
 Teaching
 ------
@@ -88,6 +91,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
 Early Background
 ------
 I was born in Osaka City, Japan, on Aug 16, 1999. 

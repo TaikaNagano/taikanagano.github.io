@@ -71,6 +71,10 @@ Fellowship
 * Apr 2026 -- Mar 2028 (expected) \| JSPS Research Fellow (DC2)
 * Apr 2024 -- Mar 2027 (expected) \| JST Spring
 
+Early Background
+------
+I was born in Osaka City, Japan, on August 16, 1999. 
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -91,7 +95,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-
-Early Background
-======
-I was born in Osaka City, Japan, on Aug 16, 1999. 

@@ -37,8 +37,8 @@ Work experience
   * Center for International Education and Exchange (CIEE), The University of Osaka
   * Supervisor: Prof. Koji Namba
   * Course description: Introductory Japnese course for international exchange students
+
 **Misc**
-------
 * Apr 2024 -- Mar 2026 (expected) \| Part-time lecturer
   * Josho Gakuen High School / Junior High School (Osaka, Japan)
 * April 2024 -- Mar 2025 \| Part-time lecturer 

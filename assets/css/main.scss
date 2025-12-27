@@ -41,3 +41,10 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* Header background (uses theme variable) */
+.masthead,
+.masthead__inner-wrap,
+.greedy-nav {
+  background-color: var(--global-masthead-bg-color) !important;
+}

@@ -72,26 +72,26 @@ Fellowship
 * Apr 2024 -- Mar 2027 (expected) \| JST Spring
 
 Publications
-------
+======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
   
 Talks
-------
+======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-  
+
 Teaching
-------
+======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 
 Early Background
-------
+======
 I was born in Osaka City, Japan, on Aug 16, 1999. 

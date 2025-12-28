@@ -1,7 +1,7 @@
 ---
 title: "ConSOLE 33 (w/ Kanta Tateno)"
 collection: talks
-type: "Poster"
+type: "Oral"
 permalink: /talks/console33
 venue: "University of G\UTF{00F6}ttingen"
 date: 2025-01-29

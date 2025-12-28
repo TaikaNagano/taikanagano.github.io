@@ -76,3 +76,22 @@
 .greedy-nav button {
   background-color: var(--global-masthead-bg-color) !important;
 }
+
+/* ===== Handai Blue for page headings ===== */
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content h5,
+.page__content h6 {
+  color: #2D287F;
+}
+
+html[data-theme="dark"] .page__content h1,
+html[data-theme="dark"] .page__content h2,
+html[data-theme="dark"] .page__content h3,
+html[data-theme="dark"] .page__content h4,
+html[data-theme="dark"] .page__content h5,
+html[data-theme="dark"] .page__content h6 {
+  color: #a4a0f0; /* 夜間向けに少し明るめの青にする例 */
+}

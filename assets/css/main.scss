@@ -34,55 +34,45 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
-/* ===== Handai Blue: masthead + nav (force) ===== */
+/* ===== Force Handai Blue only for header/nav ===== */
 
-/* ヘッダー全体の背景 */
-.masthead,
+.masthead {
+  background: var(--global-masthead-bg-color) !important;
+}
+
+/* 中の白っぽい帯を消す（ここが “本文と同じ色” に見える原因） */
 .masthead__inner-wrap,
 .masthead__menu,
-nav.greedy-nav,
 .greedy-nav,
-.greedy-nav .visible-links,
-.greedy-nav .hidden-links {
-  background: #2D287F !important;
-  background-color: #2D287F !important;
+.greedy-nav .visible-links {
+  background: transparent !important;
 }
 
-/* ヘッダー内の文字色（サイト名・メニュー） */
+/* 各メニュー項目が var(--global-bg-color) を塗ってくるのを潰す */
+.masthead__menu-item {
+  background-color: transparent !important;
+}
+
+/* 文字色 */
 .masthead a,
-.masthead a:visited,
 .greedy-nav a,
-.greedy-nav a:visited,
-.masthead__title,
-.masthead__menu-item a {
+.masthead__title {
   color: #fff !important;
 }
-
-/* hover */
 .masthead a:hover,
 .greedy-nav a:hover {
   color: #e5e7eb !important;
 }
 
-/* ハンバーガー（三本線） */
-.greedy-nav__toggle,
-.greedy-nav button {
+/* ドロップダウン（折りたたみメニュー）は青で */
+.greedy-nav .hidden-links {
+  background: var(--global-masthead-bg-color) !important;
+}
+.greedy-nav .hidden-links a {
   color: #fff !important;
 }
-.greedy-nav .navicon,
-.greedy-nav .navicon:before,
-.greedy-nav .navicon:after {
-  background: #fff !important;
-}
 
-/* ダークモードでも同じ色に固定（最優先） */
-html[data-theme="dark"] .masthead,
-html[data-theme="dark"] .masthead__inner-wrap,
-html[data-theme="dark"] .masthead__menu,
-html[data-theme="dark"] nav.greedy-nav,
-html[data-theme="dark"] .greedy-nav,
-html[data-theme="dark"] .greedy-nav .visible-links,
-html[data-theme="dark"] .greedy-nav .hidden-links {
-  background: #2D287F !important;
-  background-color: #2D287F !important;
+/* ハンバーガーのボタン（背景が灰色になりがち） */
+.greedy-nav button {
+  background-color: var(--global-masthead-bg-color) !important;
 }

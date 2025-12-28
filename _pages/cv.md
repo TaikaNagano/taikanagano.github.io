@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<h3> <a class="taglink" href="#">pdf</a> </h3>
+
 Education
 ------
 * **M.A. in Language and Culture**, The University of Osaka (Osaka Japan), 2024
@@ -20,7 +22,7 @@ Education
 
 Work experience
 ------
-**Academic/Teaching**
+<h3>Academic/Teaching</h3>
 * Apr 2026 -- Mar 2028 (expected) \| **JSPS Research Fellow (DC2)**
 * May 2025 -- Mar 2026 (expected) \| **Research Assistant**
   * Div. of Language and Culture, The University of Osaka
@@ -38,7 +40,7 @@ Work experience
   * Supervisor: Prof. Koji Namba
   * Course description: Introductory Japnese course for international exchange students
 
-**Misc**
+<h3>Misc</h3>
 * Apr 2024 -- Mar 2026 (expected) \| **Part-time lecturer**
   * Josho Gakuen High School / Junior High School (Osaka, Japan)
 * April 2024 -- Mar 2025 \| **Part-time lecturer** 

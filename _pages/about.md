@@ -23,7 +23,7 @@ News
 Recent Publications
 ======
 <ul>
-{% for post in site.publications reversed limit:3 %}
+{% for post in site.publications limit:3 %}
   {% include archive-single-cv.html %}
 {% endfor %}
 </ul>
@@ -33,7 +33,7 @@ Recent Publications
 Recent Talks
 ======
 <ul>
-{% for post in site.talks reversed limit:3 %}
+{% for post in site.talks limit:3 %}
   {% include archive-single-talk-cv.html %}
 {% endfor %}
 </ul>

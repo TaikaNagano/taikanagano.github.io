@@ -77,13 +77,19 @@
   background-color: var(--global-masthead-bg-color) !important;
 }
 
-/* ===== Handai Blue for page headings ===== */
-.page__content h1,
-.page__content h2,
-.page__content h3,
-.page__content h4,
-.page__content h5,
-.page__content h6 {
+/* ===== Headings (Handai Blue) ===== */
+#main .page__content h1,
+#main .page__content h2,
+#main .page__content h3,
+#main .page__content h4,
+#main .page__content h5,
+#main .page__content h6,
+#main .archive h1,
+#main .archive h2,
+#main .archive h3,
+#main .archive h4,
+#main .archive h5,
+#main .archive h6 {
   color: #2D287F;
 }
 
@@ -94,22 +100,4 @@ html[data-theme="dark"] .page__content h4,
 html[data-theme="dark"] .page__content h5,
 html[data-theme="dark"] .page__content h6 {
   color: #a4a0f0; /* 夜間向けに少し明るめの青にする例 */
-}
-
-/* pill-style link tag (pdf / bib / etc.) */
-.taglink{
-  display:inline-block;
-  padding:.15rem .5rem;
-  margin-left:.35rem;
-  border:1px solid #2D287F;
-  border-radius:4px;
-  color:#2D287F;
-  text-decoration:none !important;
-  font-size:.85em;
-  line-height:1.2;
-}
-
-.taglink:hover{
-  background:#2D287F;
-  color:#fff;
 }

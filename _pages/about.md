@@ -17,13 +17,14 @@ News
 {% endfor %}
 </ul>
 
-
 [Full list →](/year-archive/)
+
 
 Recent Publications
 ======
+{% assign recent_pubs = site.publications | sort: "date" | reverse %}
 <ul>
-{% for post in site.publications limit:3 %}
+{% for post in recent_pubs limit:3 %}
   {% include archive-single-cv.html %}
 {% endfor %}
 </ul>
@@ -32,8 +33,9 @@ Recent Publications
 
 Recent Talks
 ======
+{% assign recent_talks = site.talks | sort: "date" | reverse %}
 <ul>
-{% for post in site.talks limit:3 %}
+{% for post in recent_talks limit:3 %}
   {% include archive-single-talk-cv.html %}
 {% endfor %}
 </ul>

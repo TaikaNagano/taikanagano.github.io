@@ -1,6 +1,6 @@
 ---
 title: "Proceeding of ConSOLE 33"
-collection: publications
+collection: talks
 category: conferences
 permalink: /publication/console33
 excerpt: 'ConSOLE 33 paper with Kanta Tateno'

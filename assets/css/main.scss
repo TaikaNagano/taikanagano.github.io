@@ -95,3 +95,21 @@ html[data-theme="dark"] .page__content h5,
 html[data-theme="dark"] .page__content h6 {
   color: #a4a0f0; /* 夜間向けに少し明るめの青にする例 */
 }
+
+/* pill-style link tag (pdf / bib / etc.) */
+.taglink{
+  display:inline-block;
+  padding:.15rem .5rem;
+  margin-left:.35rem;
+  border:1px solid #2D287F;
+  border-radius:4px;
+  color:#2D287F;
+  text-decoration:none !important;
+  font-size:.85em;
+  line-height:1.2;
+}
+
+.taglink:hover{
+  background:#2D287F;
+  color:#fff;
+}

@@ -90,14 +90,24 @@
 #main .archive h4,
 #main .archive h5,
 #main .archive h6 {
-  color: #2D287F;
+  color: #8580ef;
 }
 
-html[data-theme="dark"] .page__content h1,
-html[data-theme="dark"] .page__content h2,
-html[data-theme="dark"] .page__content h3,
-html[data-theme="dark"] .page__content h4,
-html[data-theme="dark"] .page__content h5,
-html[data-theme="dark"] .page__content h6 {
-  color: #a4a0f0; /* 夜間向けに少し明るめの青にする例 */
+/* ===== Pill-style boxed links (pdf / bib / scholar) ===== */
+.taglink {
+  display: inline-block;
+  padding: 0.15rem 0.55rem;
+  margin-left: 0.35rem;
+  border: 1px solid #2D287F; /* 阪大ブルー */
+  border-radius: 4px;
+  color: #2D287F;
+  text-decoration: none !important;
+  font-size: 0.85em;
+  line-height: 1.2;
+  vertical-align: middle;
+}
+
+.taglink:hover {
+  background-color: #2D287F;
+  color: #ffffff;
 }

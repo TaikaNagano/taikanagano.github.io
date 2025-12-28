@@ -11,18 +11,31 @@ Hello, there! I am a Ph D student of linguistics at [the University of Osaka (Di
 
 News
 ======
-  <ul>{% for post in site.posts reversed limit:3 %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>
+{% for post in site.posts limit:3 %}
+  {% include archive-single.html %}
+{% endfor %}
+</ul>
+
+
+[Full list →](/year-archive/)
 
 Recent Publications
 ======
-  <ul>{% for post in site.publications reversed limit:3 %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>
+{% for post in site.publications reversed limit:3 %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
 
-Recent Presentations
+[Full list →](/publications/)
+
+Recent Talks
 ======
-  <ul>{% for post in site.talks reversed limit:3 %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+<ul>
+{% for post in site.talks reversed limit:3 %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}
+</ul>
+
+[Full list →](/talks/)

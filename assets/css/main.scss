@@ -111,3 +111,14 @@
   background-color: #1cd7be;
   color: #ffffff;
 }
+
+/* Responsive centered figure */
+.figure-center {
+  text-align: center;
+}
+
+.figure-center img {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}

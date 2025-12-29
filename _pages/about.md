@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<!-->
+<!--
 
 <div class="handout-banner">
   XXX Slides → <a href="#" target="_blank" rel="noopener">[HERE]</a>

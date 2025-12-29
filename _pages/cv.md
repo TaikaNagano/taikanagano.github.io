@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<h3> <a class="taglink" href="#">pdf</a> </h3>
+<h3> <a class="taglink" href="/files/cv.pdf">pdf</a> </h3>
 
 Education
 ------

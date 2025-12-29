@@ -122,3 +122,22 @@
   height: auto;
   margin: 0 auto;
 }
+
+.handout-banner{
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: #d60000;
+  margin: 0 0 1rem 0;
+  padding: .6rem .9rem;
+  border: 2px solid #d60000;
+  border-radius: 6px;
+  background: rgba(214,0,0,.06);
+}
+
+.handout-banner a{
+  color: inherit;
+  text-decoration: underline;
+}
+.handout-banner a:hover{
+  opacity: .85;
+}

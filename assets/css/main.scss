@@ -34,6 +34,7 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
+
 /* ===== Force Handai Blue only for header/nav ===== */
 
 .masthead {
@@ -112,7 +113,7 @@
   color: #ffffff;
 }
 
-/* Responsive centered figure */
+/* ===== 貼り付けた画像の調整 ===== */
 .figure-center {
   text-align: center;
 }
@@ -122,6 +123,8 @@
   height: auto;
   margin: 0 auto;
 }
+
+/* ===== HOME にだすtentativeなリンク（ハンドアウト・スライド） ===== */
 
 .handout-banner{
   font-size: 1.6rem;
@@ -141,3 +144,89 @@
 .handout-banner a:hover{
   opacity: .85;
 }
+
+
+/* ===== フォントの調整 ===== */
+/* =====================================================
+   Typography: Garamond (EN) + Mincho (JP)
+   Line-height optimized for academic text
+   ===================================================== */
+
+/* ---- Base text ---- */
+body {
+  font-family:
+    "EB Garamond",
+    "Garamond",
+    "Hiragino Mincho ProN",
+    "Yu Mincho",
+    "Noto Serif JP",
+    serif;
+
+  font-size: 1rem;
+  line-height: 1.75;        /* ← 行間（本文） */
+}
+
+/* ---- Headings in page content ---- */
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content h5,
+.page__content h6 {
+  font-family:
+    "EB Garamond",
+    "Garamond",
+    "Hiragino Mincho ProN",
+    "Yu Mincho",
+    "Noto Serif JP",
+    serif;
+
+  line-height: 1.35;        /* ← 見出しは詰める */
+  letter-spacing: 0.02em;
+}
+
+/* ---- Paragraphs & lists (readability) ---- */
+.page__content p,
+.page__content li {
+  line-height: 1.75;
+}
+
+/* ---- Japanese subtitle / supplement (Teaching etc.) ---- */
+.jp-title {
+  font-family:
+    "Hiragino Mincho ProN",
+    "Yu Mincho",
+    "Noto Serif JP",
+    serif;
+
+  font-size: 0.9em;
+  line-height: 1.6;
+  display: block;
+  margin-top: 0.25em;
+  color: #555;
+}
+
+/* ---- Inline tag-style links (pdf / slides / bib) ---- */
+.taglink {
+  display: inline-block;
+  padding: 0.15rem 0.5rem;
+  margin-left: 0.35rem;
+  border: 1px solid #2D287F;   /* 阪大ブルー */
+  border-radius: 4px;
+  color: #2D287F;
+  text-decoration: none !important;
+  font-size: 0.85em;
+  line-height: 1.2;
+}
+
+.taglink:hover {
+  background: #2D287F;
+  color: #fff;
+}
+
+/* ---- Optional: tighter lists in CV / archive ---- */
+.archive__item,
+.archive__item p {
+  line-height: 1.6;
+}
+

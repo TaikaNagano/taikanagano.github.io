@@ -13,7 +13,7 @@ News
 ======
 <ul>
 {% for post in site.posts limit:3 %}
-  {% include archive-single.html %}
+  {% include archive-single-talk-cv.html %}
 {% endfor %}
 </ul>
 

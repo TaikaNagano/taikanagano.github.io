@@ -206,27 +206,21 @@ body {
   color: #555;
 }
 
-/* ---- Inline tag-style links (pdf / slides / bib) ---- */
-.taglink {
-  display: inline-block;
-  padding: 0.15rem 0.5rem;
-  margin-left: 0.35rem;
-  border: 1px solid #2D287F;   /* 阪大ブルー */
-  border-radius: 4px;
-  color: #2D287F;
-  text-decoration: none !important;
-  font-size: 0.85em;
-  line-height: 1.2;
-}
-
-.taglink:hover {
-  background: #2D287F;
-  color: #fff;
-}
-
 /* ---- Optional: tighter lists in CV / archive ---- */
 .archive__item,
 .archive__item p {
   line-height: 1.6;
+}
+
+/* ===== Global headings (font + color) ===== */
+h1, h2, h3, h4, h5, h6 {
+  font-family:
+    "EB Garamond",
+    "Hiragino Mincho ProN",
+    "Yu Mincho",
+    "Noto Serif JP",
+    serif;
+  line-height: 1.35;
+  color: #2D287F;
 }
 

@@ -21,7 +21,7 @@ My research investigates how theories of syntax and morphology account for langu
 
 My recent research topics include deverbal compounds in Japanese, applicative expressions in Japanese (joint work with Akitaka Yamada), and negative prefixes in English and Japanese (joint work with Kanta Tateno).
 
-Before pursuing my PhD at Osaka University, I obtained my M.A. in linguistics under the supervision of Masao Ochi and Akitaka Yamada at Osaka University, and my B.A. under the supervision of Norio Nasu at Kobe City University of Foreign Studies.
+Before pursuing my PhD at the University of Osaka, I obtained my M.A. in linguistics under the supervision of Masao Ochi and Akitaka Yamada at the University of Osaka, and my B.A. under the supervision of Norio Nasu at Kobe City University of Foreign Studies.
 
 Alongside my research, I am currently working as a part-time lecturer at Setsunan University.
 

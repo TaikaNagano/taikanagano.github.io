@@ -15,10 +15,10 @@ Education
 ------
 * **M.A. in Language and Culture**, The University of Osaka (Osaka Japan), 2024
   * Thesis title: Locality Constraints on Allomorphy: Japanese Verbal Morphology in the Causative-Inchoative Alternation.
-  * Committees: Masao Ochi, Akitaka Yamada, Hirotaka Nakajima
+  * Committee: Masao Ochi, Akitaka Yamada, Hirotaka Nakajima
 * **B.A. in Foreign Studies**, Kobe City University of Foreign Studies (Hyogo, Japan), 2022
   * Thesis title: Syntactic Asymmetry in the Dative Alternation: A Case of the English VerbParticle Construction.
-  * Committees: Norio Nasu, Franklin Chang
+  * Committee: Norio Nasu, Franklin Chang
 
 Work experience
 ------

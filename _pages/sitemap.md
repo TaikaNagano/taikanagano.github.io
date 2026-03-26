@@ -12,7 +12,7 @@ For search engines, there is also an [XML version]({{ base_path }}/sitemap.xml).
 
 <h2>Main pages</h2>
 <ul>
-{% for item in site.data.navigation %}
+{% for item in site.data.navigation.main %}
   <li><a href="{{ base_path }}{{ item.url }}">{{ item.title }}</a></li>
 {% endfor %}
 </ul>

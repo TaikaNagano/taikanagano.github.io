@@ -1,8 +1,8 @@
 ---
 title: "WAFL 17 (w/ Akitaka Yamada)"
-collection: talks
+collection: presentations
 type: "Poster"
-permalink: /talks/wafl17
+permalink: /presentations/wafl17
 venue: "National University of Mongolia"
 date: 2023-9-27
 location: "Ulaanbaatar, Mongolia"

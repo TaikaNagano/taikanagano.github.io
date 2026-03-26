@@ -1,8 +1,8 @@
 ---
 title: "SICOGG 27"
-collection: talks
+collection: presentations
 type: "Poster"
-permalink: /talks/sicogg27
+permalink: /presentations/sicogg27
 venue: "Sogang University"
 date: 2025-08-16
 location: "Seoul, South Korea"

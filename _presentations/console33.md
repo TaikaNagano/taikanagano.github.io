@@ -1,8 +1,8 @@
 ---
 title: "ConSOLE 33 (w/ Kanta Tateno)"
-collection: talks
+collection: presentations
 type: "Oral presentation"
-permalink: /talks/console33
+permalink: /presentations/console33
 venue: "University of Gottingen"
 date: 2025-01-29
 location: "Gottingen, Germany"

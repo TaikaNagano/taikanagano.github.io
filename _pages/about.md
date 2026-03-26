@@ -43,13 +43,13 @@ Recent Publications
 
 [Full list →](/publications/)
 
-Recent Talks
+Recent Presentations
 ======
-{% assign recent_talks = site.talks | sort: "date" | reverse %}
+{% assign recent_presentations = site.presentations | sort: "date" | reverse %}
 <ul>
-{% for post in recent_talks limit:3 %}
+{% for post in recent_presentations limit:3 %}
   {% include archive-single-talk-cv.html %}
 {% endfor %}
 </ul>
 
-[Full list →](/talks/)
+[Full list →](/presentations/)

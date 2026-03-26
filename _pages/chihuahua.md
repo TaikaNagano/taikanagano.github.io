@@ -7,21 +7,22 @@ author_profile: true
 
 Komako the chihuahua 
 
-
-
-
-<p align="center">
+<figure style="text-align: center;">
   <img src="/images/c250722.jpg" style="max-width: 60%;">
-</p>
+  <figcaption>July 22, 2025</figcaption>
+</figure>
 
-<p align="center">
+<figure style="text-align: center;">
   <img src="/images/c250324.jpg" style="max-width: 60%;">
-</p>
+  <figcaption>March 24, 2025</figcaption>
+</figure>
 
-<p align="center">
+<figure style="text-align: center;">
   <img src="/images/c240723.jpg" style="max-width: 60%;">
-</p>
+  <figcaption>July 23, 2024</figcaption>
+</figure>
 
-<p align="center">
+<figure style="text-align: center;">
   <img src="/images/c240328.jpg" style="max-width: 60%;">
-</p>
+  <figcaption>March 28, 2024</figcaption>
+</figure>

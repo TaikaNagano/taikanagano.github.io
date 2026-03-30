@@ -26,6 +26,9 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
+  - title: "Photos"
+    url: /photos/
+
   - title: "Chihuahua"
     url: /chihuahua/
 

@@ -87,7 +87,7 @@ A collection of photos from my (conference) trips.
 <div style="text-align: center; margin: 20px auto;">
   <img src="/images/photos/240325.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
   <div style="font-size: 0.9em; color: #666; margin-top: 8px;">
-    Me
+    Me with my master's diploma
   </div>
 </div>
 

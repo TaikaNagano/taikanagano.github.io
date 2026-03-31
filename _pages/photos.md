@@ -7,25 +7,25 @@ author_profile: true
 
 A collection of photos from my (conference) trips.
 
-## Wakayama, Japan (Mar 25, 2025)
+## Shirahama, Wakayama, Japan (Mar 25, 2025)
 
 <div style="text-align: center; margin: 20px auto;">
   <img src="/images/photos/250325a.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
   <div style="font-size: 0.9em; color: #666; margin-top: 8px;">
-    Shirahama
+    Engetsu Islet
   </div>
 </div>
 
 <div style="text-align: center; margin: 20px auto;">
   <img src="/images/photos/260325b.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
   <div style="font-size: 0.9em; color: #666; margin-top: 8px;">
-    Shirahama
+    Banshoyamahudodo
   </div>
 </div>
 
 ---
 
-## Germany (Jan, Mar, Dec 2025)
+## Berlin, Göttingen, and Hannover (Germany) (Jan, Mar, Dec 2025)
 
 <div style="text-align: center; margin: 20px auto;">
   <img src="/images/photos/251220.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
@@ -71,7 +71,7 @@ A collection of photos from my (conference) trips.
 
 ---
 
-## Hokkaido, Japan (Nov 2024)
+## Sapporo, Hokkaido, Japan (Nov 2024)
 
 <div style="text-align: center; margin: 20px auto;">
   <img src="/images/photos/241110.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
@@ -93,7 +93,7 @@ A collection of photos from my (conference) trips.
 
 ---
 
-## Kyoto (Jan 2024)
+## Miyazu, Kyoto, Japan (Jan 2024)
 
 <div style="text-align: center; margin: 20px auto;">
   <img src="/images/photos/240128.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">

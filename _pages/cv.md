@@ -12,7 +12,7 @@ redirect_from:
 <h3> <a class="taglink" href="/files/cv.pdf">pdf</a> </h3>
 
 Education
-------
+======
 * **Doctral Program in Language and Culture**, The University of Osaka (Osaka Japan)
   * Apr 2024 --
   * Advised by Masao Ochi and Takeshi Yamamoto
@@ -24,7 +24,7 @@ Education
   * Committee: Norio Nasu, Franklin Chang
 
 Research experience
-------
+======
 * May 2025 -- Mar 2026 **Research Assistant**
   * Div. of Language and Culture, The University of Osaka
   * Supervisor: Prof. Yushi Sugimoto
@@ -35,12 +35,12 @@ Research experience
   * Duties included: proofreading an internal journal
 
 Fellowship
-------
+======
 * Apr 2026 -- Mar 2028 **JSPS Research Fellow (DC2)**
 * Apr 2024 -- Mar 2026 **JST Spring**
 
 Teaching experience
-------
+======
 * Apr 2025 -- **Part-time Lecturer** 
   * Faculty of International Studies, Setsunan University (Osaka, Japan)
   * Course description: Introductory English course for freshmen

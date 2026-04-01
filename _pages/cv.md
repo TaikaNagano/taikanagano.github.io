@@ -49,9 +49,6 @@ Teaching experience
   * Supervisor: Prof. Koji Namba
   * Course description: Introductory Japnese course for international exchange students
 
-Early Background
-------
-I was born in Osaka City, Japan, on August 16, 1999. 
 
 Publications
 ======
@@ -72,4 +69,9 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+
+  Early Background
+------
+I was born in Osaka City, Japan, on August 16, 1999. 
   

@@ -8,7 +8,6 @@ date: 2026-04-01
 location: "Osaka, Japan"
 ---
 
-<h3>[月曜3限・26春学期] 基礎英語</h3>
 
 TBA
 

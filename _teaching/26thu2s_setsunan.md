@@ -8,7 +8,6 @@ date: 2026-04-02
 location: "Osaka, Japan"
 ---
 
-<h3>[木曜2限・26春学期] Communicative English Grammar</h3>
 
 TBA
 

@@ -17,11 +17,11 @@ redirect_from:
 
 Hello, there! I am a PhD student of linguistics at [the University of Osaka (Div. of Language and Culture, Graduate School of Humanities)](https://lc.hmt.osaka-u.ac.jp/english/home.html). My research interests lie in syntax, morphology, and their interface. 
 
-My research investigates how theories of syntax and morphology account for language variation. I am primarily interested in phenomena related to argument structure, such as passive, causative, and applicative constructions, as well as their alternations and cross-linguistic morphological patterns. Additionally, I examine root-conditioned allomorphy in the verbal domain, with particular emphasis on change-of-state verbs, including those that participate in the causative–inchoative alternation. I am also interested in how the Japanese conjugation system can be analyzed within antilexical morphological frameworks such as Distributed Morphology and Nanosyntax. My recent research topics include voice (verbal) syncretism in Japanese, deverbal compounds in Japanese, applicative expressions in Japanese (joint work with Akitaka Yamada), and negative prefixes in English and Japanese (joint work with Kanta Tateno).
+I am interested in how cross-linguistic variation in allomorphy interacts with other phenomena. For example, English is a language that has several past tense allomorphs conditioned by a verbal root but seldom overtly marks the transitivity of ergative verbs. The opposite holds in Japanese. It clearly marks the transitivity of causative–inchoative alternating verbs but has no irregular past tense suffix. I am curious about why such variation is observed across languages and wonder what determines allomorphy and whether it is closely linked to other grammatical phenomena. This is the starting point of my research. Motivated by this, I am also investigating syntactic phenomena related to argument structure such as causative, passive, and applicative constructions from theoretical and typological perspectives. Additionally, I love joint research. I am working on a variety of benefactive (applicative) expressions in Japanese, comparing them with some Bantu and Austronesian languages (joint work with Akitaka Yamada, Keio University) and affixal negation in English and Japanese (joint work with Kanta Tateno, University of Connecticut).
 
 Alongside my research, I teach English to Japanese teenagers. I am currently a part-time lecturer at Setsunan University, where I teach several courses for first-year students.
 
-In my spare time, I enjoy playing classic Pokémon games such as FRLG, going on drives with friends, and shopping at outlet malls.
+In my spare time, I enjoy playing classic Pokémon games, going on drives with friends, and shopping.
 
 News
 ======

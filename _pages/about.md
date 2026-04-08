@@ -21,7 +21,7 @@ I am interested in how cross-linguistic variation in allomorphy interacts with o
 
 Alongside my research, I teach English to Japanese teenagers. I am currently a part-time lecturer at Setsunan University, where I teach several courses for first-year students.
 
-In my spare time, I enjoy playing classic Pokémon games, going on drives with friends, and shopping.
+In my spare time, I enjoy playing classic Pokémon games, going on drives with friends, and shopping (but only when I’m not broke).
 
 News
 ======

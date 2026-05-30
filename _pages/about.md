@@ -7,13 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-<!--
+
 
 <div class="handout-banner">
-  XXX Slides → <a href="#" target="_blank" rel="noopener">[HERE]</a>
+  KLS ワークショップ　ハンドアウト（修正版） → <a href="/files/handout.pdf" target="_blank" rel="noopener">[こちら]</a>
 </div>
 
--->
 
 Hello, there! I am a PhD student of linguistics at [the University of Osaka (Div. of Language and Culture, Graduate School of Humanities)](https://lc.hmt.osaka-u.ac.jp/english/home.html). My research interests lie in syntax, morphology, and their interface. 
 

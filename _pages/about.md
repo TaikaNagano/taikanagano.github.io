@@ -10,7 +10,7 @@ redirect_from:
 
 
 <div class="handout-banner">
-  KLS ワークショップ　ハンドアウト（修正版） → <a href="/files/handout.pdf" target="_blank" rel="noopener">[こちら]</a>
+    <a href="/files/handout.pdf" target="_blank" rel="noopener">[KLS ワークショップ　ハンドアウト（修正版）]</a>
 </div>
 
 

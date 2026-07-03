@@ -8,10 +8,11 @@ redirect_from:
 ---
 
 
-
+<!--
 <div class="handout-banner">
-    <a href="/files/handout.pdf" target="_blank" rel="noopener">blabla</a>
+    <a href="/files/handout.pdf" target="_blank" rel="noopener">Handout</a>
 </div>
+-->
 
 
 Hello, there! I am a PhD student of linguistics at [the University of Osaka (Div. of Language and Culture, Graduate School of Humanities)](https://lc.hmt.osaka-u.ac.jp/english/home.html). My research interests lie in syntax, morphology, and their interface. 

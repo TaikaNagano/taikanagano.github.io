@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Taika Nagano | The Univ. of Osaka"
+title                    : "Taika Nagano's personal website (永野 大夏)"
 title_separator          : "-"
 name                     : &name "Taika Nagano"
 description              : &description "Linguist"
@@ -40,6 +40,7 @@ author:
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
+  researchmap      : "https://researchmap.jp/taikanagano"
   scopus           : # URL
 
   # Repositories and software development

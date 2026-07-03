@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Taika Nagano's personal website"
+title: "Taika Nagano's personal website (永野 大夏)"
 author_profile: true
 redirect_from: 
   - /about/

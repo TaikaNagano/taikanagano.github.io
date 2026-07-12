@@ -5,6 +5,10 @@ permalink: /presentations/
 author_profile: true
 ---
 
+{% for post in site.presentations reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
 <h2>Talk Map</h2>
 
 <iframe
@@ -14,7 +18,3 @@ author_profile: true
   style="border: none;"
   loading="lazy">
 </iframe>
-
-{% for post in site.presentations reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}

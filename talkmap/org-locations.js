@@ -1,22 +1,37 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "WAFL 17 (w/ Akitaka Yamada)<br />National University of Mongolia; Ulaanbaatar, Mongolia",
+    47.9184676,
+    106.9177016
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "LSJ 169<br />Hokkaido University; Hokkaido, Japan",
+    43.4339536,
+    142.9521222
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "DM meets Nano II<br />Masaryk University; Brno, Czechia",
+    49.1922443,
+    16.6113382
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "LSJ 166 (w/ Akitaka Yamada)<br />Senshu University; Tokyo, Japan",
+    35.6768601,
+    139.7638947
+  ],
+  [
+    "KLS 51<br />Ritsumeikan University; Osaka, Japan",
+    34.6937569,
+    135.5014539
+  ],
+  [
+    "SICOGG 27<br />Sogang University; Seoul, South Korea",
+    37.5666791,
+    126.9782914
+  ],
+  [
+    "ConSOLE 33 (w/ Kanta Tateno)<br />University of G\u00f6ttingen; G\u00f6ttingen, Germany",
+    51.5328328,
+    9.9351811
   ]
 ];

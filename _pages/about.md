@@ -55,3 +55,14 @@ Recent Presentations
 </ul>
 
 [Full list →](/presentations/)
+
+Talk Map
+======
+
+<iframe
+  src="/talkmap/map.html"
+  width="100%"
+  height="600"
+  style="border: none;"
+  loading="lazy">
+</iframe>

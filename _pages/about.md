@@ -14,14 +14,16 @@ redirect_from:
 </div>
 -->
 
+Hello, there! I am a PhD student in linguistics at [the University of Osaka (Div. of Language and Culture, Graduate School of Humanities)](https://lc.hmt.osaka-u.ac.jp/english/home.html) and currently a JSPS Research Fellow (DC2).
 
-Hello, there! I am a PhD student of linguistics at [the University of Osaka (Div. of Language and Culture, Graduate School of Humanities)](https://lc.hmt.osaka-u.ac.jp/english/home.html). My research interests lie in syntax, morphology, and their interface. 
+My research interests lie at the interface of syntax and morphology, especially in the verbal domain. I am interested in how cross-linguistic variation in argument structure and verbal morphology can deepen our understanding of the lexicon. My current work focuses on topics such as causatives, passives, applicative constructions, transitivity alternations, and contextual allomorphy from theoretical and typological perspectives. 
 
-I am interested in how cross-linguistic variation in allomorphy interacts with other phenomena. For example, English is a language that has several past tense allomorphs conditioned by a verbal root but seldom overtly marks the transitivity of ergative verbs. The opposite holds in Japanese. It clearly marks the transitivity of causative–inchoative alternating verbs but has no irregular past tense suffix. I am curious about why such variation is observed across languages and wonder what determines allomorphy and whether it is closely linked to other grammatical phenomena. This is the starting point of my research. Motivated by this, I am also investigating syntactic phenomena related to argument structure such as causative, passive, and applicative constructions from theoretical and typological perspectives. Additionally, I love joint research. I am working on a variety of benefactive (applicative) expressions in Japanese, comparing them with some Bantu and Austronesian languages (joint work with Akitaka Yamada, Keio University) and affixal negation in English and Japanese (joint work with Kanta Tateno, University of Connecticut).
+I also enjoy collaborative research. I am currently working with [Akitaka Yamada (Keio University)](https://keiosfc-aki2025.github.io/Seminar/home.html) on applicative constructions in Japanese and their cross-linguistic parallels, and with [Kanta Tateno (University of Connecticut)](https://sites.google.com/view/kanta-tateno/) on several morphosemantic topics.
 
-Alongside my research, I teach English to Japanese teenagers. I am currently a part-time lecturer at Setsunan University, where I teach several courses for first-year students.
+Alongside my research, I teach English as a part-time lecturer at Setsunan University, where I teach several first-year English courses.
 
-In my spare time, I enjoy playing classic Pokémon games, going on drives with friends, and shopping (but only when I’m not broke).
+Outside of linguistics, I enjoy playing classic Pokémon games, playing with [my chihuahua](https://taikanagano.github.io/chihuahua/), going on drives with friends, and shopping (when my wallet allows it).
+
 
 News
 ======

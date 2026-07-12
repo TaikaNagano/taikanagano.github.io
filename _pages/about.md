@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 
-<!--
-<div class="handout-banner">
-    <a href="/files/handout.pdf" target="_blank" rel="noopener">Handout</a>
-</div>
--->
 
-Hello, there! I am a PhD student in linguistics at [the University of Osaka (Div. of Language and Culture, Graduate School of Humanities)](https://lc.hmt.osaka-u.ac.jp/english/home.html) and currently a JSPS Research Fellow (DC2).
+<div class="handout-banner">
+    <a href="https://researchmap.jp/taikanagano/presentations/54260348/attachment_file.pdf" target="_blank" rel="noopener">Slides for DM meets Nano II</a>
+</div>
+
+
+Hello! I am a PhD student in linguistics at [the University of Osaka (Div. of Language and Culture, Graduate School of Humanities)](https://lc.hmt.osaka-u.ac.jp/english/home.html) and currently a JSPS Research Fellow (DC2).
 
 My research interests lie at the interface of syntax and morphology, especially in the verbal domain. I am interested in how cross-linguistic variation in argument structure and verbal morphology can deepen our understanding of the lexicon. My current work focuses on topics such as causatives, passives, applicative constructions, transitivity alternations, and contextual allomorphy from theoretical and typological perspectives. 
 
@@ -22,7 +22,7 @@ I also enjoy collaborative research. I am currently working with [Akitaka Yamada
 
 Alongside my research, I teach English as a part-time lecturer at Setsunan University, where I teach several first-year English courses.
 
-Outside of linguistics, I enjoy playing classic Pokémon games, playing with [my chihuahua](https://taikanagano.github.io/chihuahua/), going on drives with friends, and shopping (when my wallet allows it).
+Outside of linguistics, I enjoy playing classic Pokémon games, playing with [my Chihuahua](https://taikanagano.github.io/chihuahua/), going on drives with friends, and shopping (when my wallet allows it).
 
 
 News

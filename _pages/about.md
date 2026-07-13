@@ -14,7 +14,9 @@ redirect_from:
 </div>
 
 
-Hello! I am a PhD student in linguistics at [the University of Osaka (Div. of Language and Culture, Graduate School of Humanities)](https://lc.hmt.osaka-u.ac.jp/english/home.html) and currently a JSPS Research Fellow (DC2).
+Hello! I am a PhD student in linguistics at [the University of Osaka (Div. of Language and Culture, Graduate School of Humanities)](https://lc.hmt.osaka-u.ac.jp/english/home.html) and currently a [JSPS](https://www.jsps.go.jp/english/) Research Fellow (DC2).
+
+Here's my latest [CV](https://taikanagano.github.io/files/cv.pdf). 
 
 My research interests lie at the interface of syntax and morphology, especially in the verbal domain. I am interested in how cross-linguistic variation in argument structure and verbal morphology can deepen our understanding of the lexicon. My current work focuses on topics such as causatives, passives, applicative constructions, transitivity alternations, and contextual allomorphy from theoretical and typological perspectives. 
 

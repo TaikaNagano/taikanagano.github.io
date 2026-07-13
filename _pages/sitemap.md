@@ -13,6 +13,16 @@ For search engines, there is also an [XML version]({{ base_path }}/sitemap.xml).
 <h2>Main pages</h2>
 <ul>
 {% for item in site.data.navigation.main %}
-  <li><a href="{{ base_path }}{{ item.url }}">{{ item.title }}</a></li>
+  <li>
+    <a href="{{ base_path }}{{ item.url }}">{{ item.title }}</a>
+
+    {% if item.url == "/misc/" %}
+      <ul>
+        <li><a href="{{ base_path }}/talkmap/">Talk Map</a></li>
+        <li><a href="{{ base_path }}/photos/">Photos</a></li>
+        <li><a href="{{ base_path }}/chihuahua/">Chihuahua</a></li>
+      </ul>
+    {% endif %}
+  </li>
 {% endfor %}
 </ul>

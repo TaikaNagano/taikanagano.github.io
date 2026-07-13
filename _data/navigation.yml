@@ -26,11 +26,14 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
+  - title: "Misc."
+    url: /misc/
+
   #- title: "Photos"
   #  url: /photos/
 
-  - title: "Chihuahua"
-    url: /chihuahua/
+  #- title: "Chihuahua"
+  #  url: /chihuahua/
 
   # - title: "CV"
   #   url: /cv-json/

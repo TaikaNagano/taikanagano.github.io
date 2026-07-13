@@ -22,8 +22,6 @@ My research interests lie at the interface of syntax and morphology, especially 
 
 I also enjoy collaborative research. I am currently working with [Akitaka Yamada (Keio University)](https://keiosfc-aki2025.github.io/Seminar/home.html) on applicative constructions in Japanese and their cross-linguistic parallels, and with [Kanta Tateno (University of Connecticut)](https://sites.google.com/view/kanta-tateno/) on several morphosemantic topics.
 
-Alongside my research, I teach English as a part-time lecturer at Setsunan University, where I teach several first-year English courses.
-
 Outside of linguistics, I enjoy playing classic Pokémon games, playing with [my Chihuahua](https://taikanagano.github.io/chihuahua/), going on drives with friends, and shopping (when my wallet allows it).
 
 

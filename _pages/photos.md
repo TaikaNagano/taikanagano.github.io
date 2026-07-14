@@ -7,6 +7,62 @@ author_profile: true
 
 A collection of photos from my (conference) trips.
 
+## Brno & Prague, Czechia (Jul 6-10, 2026)
+
+
+<div style="text-align: center; margin: 20px auto;">
+  <img src="/images/photos/260707.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
+  <div style="font-size: 0.9em; color: #666; margin-top: 8px;">
+    Masaryk University
+  </div>
+</div>
+
+<div style="text-align: center; margin: 20px auto;">
+  <img src="/images/photos/260707a.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
+  <div style="font-size: 0.9em; color: #666; margin-top: 8px;">
+    Brno hlavní nádraží `Brno Main Railway Station'
+  </div>
+</div>
+
+<div style="text-align: center; margin: 20px auto;">
+  <img src="/images/photos/260710.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
+  <div style="font-size: 0.9em; color: #666; margin-top: 8px;">
+    Pražský orloj `Prague Orloj (astronomical clock)'
+  </div>
+</div>
+
+<div style="text-align: center; margin: 20px auto;">
+  <img src="/images/photos/260710a.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
+  <div style="font-size: 0.9em; color: #666; margin-top: 8px;">
+    Václavské náměstí `Wenceslas Square'
+  </div>
+</div>
+
+<div style="text-align: center; margin: 20px auto;">
+  <img src="/images/photos/260710b.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
+  <div style="font-size: 0.9em; color: #666; margin-top: 8px;">
+    Mánesův most `Mánes Bridge'
+  </div>
+</div>
+
+<div style="text-align: center; margin: 20px auto;">
+  <img src="/images/photos/260710c.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
+  <div style="font-size: 0.9em; color: #666; margin-top: 8px;">
+    Prašná brána `The Powder Tower'
+  </div>
+</div>
+
+<div style="text-align: center; margin: 20px auto;">
+  <img src="/images/photos/260710d.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
+  <div style="font-size: 0.9em; color: #666; margin-top: 8px;">
+    Staroměstské náměstí `Old Town Square,' featuring Chrám Matky Boží před Týnem `Church of Our Lady before Týn,' Památník Jana Husa `Jan Hus Memorial,' and me
+
+  </div>
+</div>
+
+---
+
+
 ## Shirahama, Wakayama, Japan (Mar 25, 2025)
 
 <div style="text-align: center; margin: 20px auto;">

@@ -8,6 +8,13 @@ author_profile: true
 Komako the chihuahua 
 
 <figure style="text-align: center; display: inline-block; margin: 20px auto;">
+  <img src="/images/c260703.jpeg" style="max-width: 60%;">
+  <figcaption style="text-align: center; font-size: 0.9em; color: #666;">
+    July 3, 2026
+  </figcaption>
+</figure>
+
+<figure style="text-align: center; display: inline-block; margin: 20px auto;">
   <img src="/images/c250722.jpeg" style="max-width: 60%;">
   <figcaption style="text-align: center; font-size: 0.9em; color: #666;">
     July 22, 2025

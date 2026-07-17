@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-Komako the chihuahua 
+Komako the Chihuahua (July 17, 2023-)
 
 <figure style="text-align: center; display: inline-block; margin: 20px auto;">
   <img src="/images/c260703.jpeg" style="max-width: 60%;">

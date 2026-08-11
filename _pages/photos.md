@@ -25,49 +25,49 @@ A collection of photos from my (conference) trips.
 
 
 <div style="text-align: center; margin: 20px auto;">
-  <img src="/images/photos/200810a.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
+  <img src="/images/photos/260810a.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
   <div style="font-size: 0.9em; color: #666; margin-top: 8px;">
     The University of Chicago
   </div>
 </div>
 
 <div style="text-align: center; margin: 20px auto;">
-  <img src="/images/photos/200810b.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
+  <img src="/images/photos/260810b.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
   <div style="font-size: 0.9em; color: #666; margin-top: 8px;">
     Rockefeller Memorial Chapel
   </div>
 </div>
 
 <div style="text-align: center; margin: 20px auto;">
-  <img src="/images/photos/200810c.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
+  <img src="/images/photos/260810c.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
   <div style="font-size: 0.9em; color: #666; margin-top: 8px;">
     Magnificent Mile
   </div>
 </div>
 
 <div style="text-align: center; margin: 20px auto;">
-  <img src="/images/photos/200810d.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
+  <img src="/images/photos/260810d.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
   <div style="font-size: 0.9em; color: #666; margin-top: 8px;">
     The Golden Mean
   </div>
 </div>
 
 <div style="text-align: center; margin: 20px auto;">
-  <img src="/images/photos/200810e.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
+  <img src="/images/photos/260810e.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
   <div style="font-size: 0.9em; color: #666; margin-top: 8px;">
     Skyscrapers
   </div>
 </div>
 
 <div style="text-align: center; margin: 20px auto;">
-  <img src="/images/photos/200810f.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
+  <img src="/images/photos/260810f.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
   <div style="font-size: 0.9em; color: #666; margin-top: 8px;">
     Skyscrapers
   </div>
 </div>
 
 <div style="text-align: center; margin: 20px auto;">
-  <img src="/images/photos/200810g.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
+  <img src="/images/photos/260810g.jpeg" style="max-width: 70%; display: block; margin: 0 auto;">
   <div style="font-size: 0.9em; color: #666; margin-top: 8px;">
     Skyscrapers
   </div>

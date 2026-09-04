@@ -6,8 +6,8 @@ var addressPoints = [
   ],
   [
     "LSJ 169<br />Hokkaido University; Hokkaido, Japan",
-    43.4339536,
-    142.9521222
+    43.4519831,
+    142.8197834
   ],
   [
     "DM meets Nano II<br />Masaryk University; Brno, Czechia",
@@ -30,8 +30,18 @@ var addressPoints = [
     126.9782914
   ],
   [
+    "JK 33 (w/ K. Tateno)<br />University of Illinois at Urbana-Champaign; Urbana-Champaign, Illinois, US",
+    40.1163875,
+    -88.2264107
+  ],
+  [
     "ConSOLE 33 (w/ Kanta Tateno)<br />University of G\u00f6ttingen; G\u00f6ttingen, Germany",
     51.5328328,
     9.9351811
+  ],
+  [
+    "JK 33<br />University of Illinois at Urbana-Champaign; Urbana-Champaign, Illinois, US",
+    40.1163875,
+    -88.2264107
   ]
 ];

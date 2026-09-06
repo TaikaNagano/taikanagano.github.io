@@ -112,7 +112,7 @@ redirect_from:
 - Ainu — Coursework
 
 
-  Early Background
-======
+#  Early Background
+
 I was born in Osaka City, Japan, on August 16, 1999. 
   

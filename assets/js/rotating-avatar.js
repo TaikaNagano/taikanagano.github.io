@@ -55,7 +55,6 @@ document.addEventListener("DOMContentLoaded", function () {
     "/images/about/about1.png",
     "/images/about/about2.png",
     "/images/about/about3.png",
-    "/images/about/about4.png"
   ];
 
   if (aboutPhoto) {

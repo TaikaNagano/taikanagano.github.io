@@ -7,7 +7,12 @@ document.addEventListener("DOMContentLoaded", function () {
     "/images/profile/profile2.png",
     "/images/profile/profile3.png",
     "/images/profile/profile4.png",
-    "/images/profile/profile5.png",  
+    "/images/profile/profile5.png",
+    "/images/profile/chihuahua1.png",
+    "/images/profile/chihuahua2.png",
+    "/images/profile/chihuahua3.png",
+    "/images/profile/chihuahua4.png",
+    "/images/profile/chihuahua5.png",    
   ];
 
   function getRandomIndex(excludeIndex = -1) {

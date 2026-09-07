@@ -15,6 +15,12 @@ redirect_from:
 
 -->
 
+<div class="about-hero">
+  <img
+    id="rotating-about-photo"
+    src="/images/about/about1.png"
+    alt="Taika Nagano">
+</div>
 
 Hello! My name is Taika Nagano (pronounced /ˈtaɪkə nəˈɡɑːnoʊ/). I am a PhD student in linguistics at [the University of Osaka (Div. of Language and Culture, Graduate School of Humanities)](https://lc.hmt.osaka-u.ac.jp/english/home.html) and currently a [JSPS](https://www.jsps.go.jp/english/) Research Fellow (DC2).
 

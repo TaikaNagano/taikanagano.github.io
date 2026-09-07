@@ -6,10 +6,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const avatarImages = [
 "/images/profile/profile1.png",
+  /* =====
 "/images/profile/profile2.png",
 "/images/profile/profile3.png",
 "/images/profile/profile4.png",
 "/images/profile/profile5.png",
+===== */
 "/images/profile/chihuahua1.png",
 "/images/profile/chihuahua2.png",
 "/images/profile/chihuahua3.png",

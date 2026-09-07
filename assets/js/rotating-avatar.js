@@ -3,11 +3,11 @@ document.addEventListener("DOMContentLoaded", function () {
   if (!avatar) return;
 
   const images = [
-    "/images/profile1.png",
-    "/images/profile2.png",
-    "/images/profile3.png",
-    "/images/profile4.png",
-    "/images/profile5.png",  
+    "/images/profile/profile1.png",
+    "/images/profile/profile2.png",
+    "/images/profile/profile3.png",
+    "/images/profile/profile4.png",
+    "/images/profile/profile5.png",  
   ];
 
   function getRandomIndex(excludeIndex = -1) {
@@ -34,5 +34,5 @@ document.addEventListener("DOMContentLoaded", function () {
   setInterval(function () {
     currentIndex = getRandomIndex(currentIndex);
     avatar.src = images[currentIndex];
-  }, 30000);
+  }, 20000);
 });

@@ -82,13 +82,13 @@ redirect_from:
 
 # Academic Service
 
-- Mar 2026 **Editor**, *Kansai Linguistic Society (KLS) Selected Papers 8*
-- Feb 2025 **Editor**, *Kansai Linguistic Society (KLS) Selected Papers 7*
+- Mar 2026 **Proofreader**, *Kansai Linguistic Society (KLS) Selected Papers 8*
+- Feb 2025 **Proofreader**, *Kansai Linguistic Society (KLS) Selected Papers 7*
 - Oct 2024 -- Feb 2026 **Tutor of an international student**
   - Division of Language and Culture, Graduate School of Humanities, The University of Osaka
   - Supervised by Kozi Ueda and Masao Ochi
-- Feb 2024 **Editor**, *Kansai Linguistic Society (KLS) Selected Papers 6*
-- Feb 2023 **Editor**, *Kansai Linguistic Society (KLS) Selected Papers 5*
+- Feb 2024 **Proofreader**, *Kansai Linguistic Society (KLS) Selected Papers 6*
+- Feb 2023 **Proofreader**, *Kansai Linguistic Society (KLS) Selected Papers 5*
 
 # Other Experience
 

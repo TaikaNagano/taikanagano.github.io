@@ -507,31 +507,20 @@ html[data-theme="dark"] .misc-card:hover {
 
 /* ===== Sidebar typography ===== */
 
+/* ===== Sidebar typography ===== */
+
 .sidebar,
-.sidebar * {
+.author__content,
+.author__name,
+.author__bio,
+.author__pronouns,
+.author__urls,
+.author__urls li,
+.author__urls a {
   font-family:
     "Libertinus Sans",
     "Hiragino Sans",
     "Yu Gothic",
     "Noto Sans JP",
     sans-serif !important;
-}
-
-/* 名前だけはSerifにするならこれ */
-.author__name {
-  font-family:
-    "Libertinus Serif",
-    "Hiragino Mincho ProN",
-    "Yu Mincho",
-    serif !important;
-}
-
-.author__name {
-  font-family:
-    "Libertinus Sans",
-    "Hiragino Sans",
-    "Yu Gothic",
-    sans-serif !important;
-
-  font-weight: 700;
 }

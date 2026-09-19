@@ -1,10 +1,105 @@
 ---
 ---
 
-/* ===== Web fonts ===== */
-@import url("https://fonts.cdnfonts.com/css/libertinus-sans");
-@import url("https://fonts.cdnfonts.com/css/libertinus-serif");
-@import url("https://fonts.cdnfonts.com/css/jetbrains-mono");
+/* =====================================================
+   Self-hosted web fonts
+   ===================================================== */
+
+/* ===== Libertinus Sans ===== */
+
+@font-face {
+  font-family: "Libertinus Sans";
+  src: url("../fonts/libertinus-sans-latin-400-normal.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Libertinus Sans";
+  src: url("../fonts/libertinus-sans-latin-400-italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Libertinus Sans";
+  src: url("../fonts/libertinus-sans-latin-700-normal.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+/* ===== Libertinus Serif ===== */
+
+@font-face {
+  font-family: "Libertinus Serif";
+  src: url("../fonts/libertinus-serif-latin-400-normal.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Libertinus Serif";
+  src: url("../fonts/libertinus-serif-latin-400-italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Libertinus Serif";
+  src: url("../fonts/libertinus-serif-latin-600-normal.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Libertinus Serif";
+  src: url("../fonts/libertinus-serif-latin-600-italic.woff2") format("woff2");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Libertinus Serif";
+  src: url("../fonts/libertinus-serif-latin-700-normal.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Libertinus Serif";
+  src: url("../fonts/libertinus-serif-latin-700-italic.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+
+/* ===== JetBrains Mono ===== */
+
+@font-face {
+  font-family: "JetBrains Mono";
+  src: url("../fonts/jetbrains-mono-latin-400-normal.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  src: url("../fonts/jetbrains-mono-latin-400-italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
 
 @import
     "vendor/breakpoint/breakpoint",
@@ -408,4 +503,35 @@ html[data-theme="dark"] .misc-card:hover {
   .about-hero img {
     height: 220px;
   }
+}
+
+/* ===== Sidebar typography ===== */
+
+.sidebar,
+.sidebar * {
+  font-family:
+    "Libertinus Sans",
+    "Hiragino Sans",
+    "Yu Gothic",
+    "Noto Sans JP",
+    sans-serif !important;
+}
+
+/* 名前だけはSerifにするならこれ */
+.author__name {
+  font-family:
+    "Libertinus Serif",
+    "Hiragino Mincho ProN",
+    "Yu Mincho",
+    serif !important;
+}
+
+.author__name {
+  font-family:
+    "Libertinus Sans",
+    "Hiragino Sans",
+    "Yu Gothic",
+    sans-serif !important;
+
+  font-weight: 700;
 }

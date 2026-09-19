@@ -1,5 +1,11 @@
 ---
 ---
+
+/* ===== Web fonts ===== */
+@import url("https://fonts.cdnfonts.com/css/libertinus-sans");
+@import url("https://fonts.cdnfonts.com/css/libertinus-serif");
+@import url("https://fonts.cdnfonts.com/css/jetbrains-mono");
+
 @import
     "vendor/breakpoint/breakpoint",
 
@@ -146,94 +152,184 @@
 }
 
 
-/* ===== フォントの調整 ===== */
 /* =====================================================
-   Typography: Garamond (EN) + Mincho (JP)
-   Line-height optimized for academic text
+   Typography
+   Body: Libertinus Sans
+   Headings: Libertinus Serif
+   Code: JetBrains Mono
    ===================================================== */
 
 /* ---- Base text ---- */
 body {
   font-family:
-    "EB Garamond",
-    "Garamond",
-    "Hiragino Mincho ProN",
-    "Yu Mincho",
-    "Noto Serif JP",
-    serif;
+    "Libertinus Sans",
+    "Hiragino Sans",
+    "Yu Gothic",
+    "Noto Sans JP",
+    sans-serif;
 
   font-size: 1rem;
-  line-height: 1.75;        /* ← 行間（本文） */
+  line-height: 1.7;
+  letter-spacing: 0.005em;
 }
 
-/* ---- Headings in page content ---- */
+/* ---- Main content ---- */
+.page__content,
+.archive {
+  font-family:
+    "Libertinus Sans",
+    "Hiragino Sans",
+    "Yu Gothic",
+    "Noto Sans JP",
+    sans-serif;
+}
+
+/* ---- Paragraphs & lists ---- */
+.page__content p,
+.page__content li,
+.archive p,
+.archive li {
+  line-height: 1.7;
+}
+
+/* ---- Global headings ---- */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
 .page__content h1,
 .page__content h2,
 .page__content h3,
 .page__content h4,
 .page__content h5,
-.page__content h6 {
+.page__content h6,
+.archive h1,
+.archive h2,
+.archive h3,
+.archive h4,
+.archive h5,
+.archive h6 {
   font-family:
-    "EB Garamond",
-    "Garamond",
+    "Libertinus Serif",
     "Hiragino Mincho ProN",
     "Yu Mincho",
     "Noto Serif JP",
     serif;
 
-  line-height: 1.35;        /* ← 見出しは詰める */
-  letter-spacing: 0.02em;
+  color: #3333B3;
+  line-height: 1.2;
+  letter-spacing: 0.01em;
 }
 
-/* ---- Paragraphs & lists (readability) ---- */
-.page__content p,
-.page__content li {
-  line-height: 1.75;
+/* ---- Heading weights / spacing ---- */
+h1,
+.page__content h1,
+.archive h1 {
+  font-weight: 700;
 }
 
-/* ---- Japanese subtitle / supplement (Teaching etc.) ---- */
+h2,
+.page__content h2,
+.archive h2 {
+  font-weight: 600;
+  margin-top: 1.8em;
+  margin-bottom: 0.6em;
+}
+
+h3,
+.page__content h3,
+.archive h3 {
+  font-weight: 600;
+  margin-top: 1.5em;
+  margin-bottom: 0.45em;
+}
+
+/* ---- Archive / list item titles ---- */
+.archive__item-title,
+.archive__item-title a {
+  font-family:
+    "Libertinus Serif",
+    "Hiragino Mincho ProN",
+    "Yu Mincho",
+    "Noto Serif JP",
+    serif;
+
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+/* ---- Sidebar ---- */
+.author__name {
+  font-family:
+    "Libertinus Serif",
+    "Hiragino Mincho ProN",
+    "Yu Mincho",
+    serif;
+
+  font-weight: 600;
+}
+
+.author__bio,
+.author__urls {
+  font-family:
+    "Libertinus Sans",
+    "Hiragino Sans",
+    "Yu Gothic",
+    sans-serif;
+}
+
+/* ---- Navigation ---- */
+.masthead,
+.masthead__menu,
+.greedy-nav {
+  font-family:
+    "Libertinus Sans",
+    "Hiragino Sans",
+    "Yu Gothic",
+    sans-serif;
+}
+
+/* ---- Code ---- */
+code,
+pre,
+kbd,
+samp,
+.highlight {
+  font-family:
+    "JetBrains Mono",
+    "SFMono-Regular",
+    Consolas,
+    monospace;
+}
+
+/* ---- Japanese subtitle / supplement ---- */
 .jp-title {
   font-family:
-    "Hiragino Mincho ProN",
-    "Yu Mincho",
-    "Noto Serif JP",
-    serif;
+    "Hiragino Sans",
+    "Yu Gothic",
+    "Noto Sans JP",
+    sans-serif;
 
   font-size: 0.9em;
-  line-height: 1.6;
+  line-height: 1.55;
   display: block;
   margin-top: 0.25em;
-  color: #555;
+  color: #666;
 }
 
-/* ---- Optional: tighter lists in CV / archive ---- */
+/* ---- Optional: tighter archive items ---- */
 .archive__item,
 .archive__item p {
   line-height: 1.6;
 }
 
-/* ===== Global headings (font + color) ===== */
-h1, h2, h3, h4, h5, h6 {
-  font-family:
-    "EB Garamond",
-    "Hiragino Mincho ProN",
-    "Yu Mincho",
-    "Noto Serif JP",
-    serif;
-  line-height: 1.35;
-  color: #3333B3;
-}
-
-/* ===== Archive / list item titles (Teaching, Publications, Talks, etc.) ===== */
-.archive__item-title,
-.archive__item-title a {
-  font-family:
-    "EB Garamond",
-    "Hiragino Mincho ProN",
-    "Yu Mincho",
-    "Noto Serif JP",
-    serif;
-  line-height: 1.3;
+/* ---- Link underline refinement ---- */
+.page__content a,
+.archive a {
+  text-underline-offset: 0.12em;
+  text-decoration-thickness: 0.06em;
 }
 
 /* ===== Misc. card ===== */

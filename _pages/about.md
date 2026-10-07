@@ -24,9 +24,9 @@ redirect_from:
 
 Hello! My name is Taika Nagano (pronounced /ˈtaɪkə nəˈɡɑːnoʊ/). I am a PhD student in linguistics at [the University of Osaka (Div. of Language and Culture, Graduate School of Humanities)](https://lc.hmt.osaka-u.ac.jp/english/home.html) and currently a [JSPS](https://www.jsps.go.jp/english/) Research Fellow (DC2).
 
-Here's my latest [CV](https://taikanagano.github.io/files/cv.pdf). 
+Here's my latest [CV](/files/cv.pdf). 
 
-My research interests lie at the interface of syntax and morphology, especially in the verbal domain. I am interested in how cross-linguistic variation in argument structure and verbal morphology can deepen our understanding of the lexicon. My current work focuses on topics such as causatives, passives, applicative constructions, transitivity alternations, and contextual allomorphy from theoretical and typological perspectives. 
+My research interests lie at the interface of syntax and morphology, especially in the verbal domain. I am interested in how cross-linguistic variation in argument structure and verbal morphology can deepen our understanding of the lexicon. My current work focuses on topics such as causatives, passives, applicative constructions, transitivity alternations, and contextual allomorphy from theoretical and typological perspectives.
 
 I also enjoy collaborative research. I am currently working with [Akitaka Yamada (Keio University)](https://keiosfc-aki2025.github.io/Seminar/home.html) on applicative constructions in Japanese and their cross-linguistic parallels, and with [Kanta Tateno (University of Connecticut)](https://sites.google.com/view/kanta-tateno/) on several morphosemantic topics.
 

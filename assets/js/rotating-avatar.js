@@ -12,6 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
 "/images/profile/profile4.png",
 "/images/profile/profile5.png",
 ===== */
+"/images/profile/profile6.png",
 "/images/profile/chihuahua1.png",
 "/images/profile/chihuahua2.png",
 "/images/profile/chihuahua3.png",

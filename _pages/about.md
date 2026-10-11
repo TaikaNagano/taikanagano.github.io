@@ -22,16 +22,15 @@ redirect_from:
     alt="Taika Nagano">
 </div>
 
-Hello! My name is Taika Nagano (pronounced /ˈtaɪkə nəˈɡɑːnoʊ/). I am a PhD student in linguistics at [the University of Osaka (Div. of Language and Culture, Graduate School of Humanities)](https://lc.hmt.osaka-u.ac.jp/english/home.html) and currently a [JSPS](https://www.jsps.go.jp/english/) Research Fellow (DC2).
+Hello! My name is Taika Nagano (pronounced /ˈtaɪkə nəˈɡɑːnoʊ/). I am a PhD student at [the University of Osaka (Div. of Language and Culture, Graduate School of Humanities)](https://lc.hmt.osaka-u.ac.jp/english/home.html) and and currently a [JSPS](https://www.jsps.go.jp/english/) Research Fellow (DC2). I major in linguistics, with a special emphasis on syntax, morphology, and their interface.
 
 Here's my latest [CV](/files/cv.pdf). 
 
-My research interests lie at the interface of syntax and morphology, especially in the verbal domain. I am interested in how cross-linguistic variation in argument structure and verbal morphology can deepen our understanding of the lexicon. My current work focuses on topics such as causatives, passives, applicative constructions, transitivity alternations, and contextual allomorphy from theoretical and typological perspectives.
+My research interests lie mainly in the verbal domain. I am especially interested in argument structure and related phenomena, including argument alternations (e.g., causative–inchoative and dative alternations), causative, passive, and applicative constructions. While my research is not limited to any particular language, I often take my native language, Japanese, as a starting point and explore these phenomena from a cross-linguistic perspective.
 
-I also enjoy collaborative research. I am currently working with [Akitaka Yamada (Keio University)](https://keiosfc-aki2025.github.io/Seminar/home.html) on applicative constructions in Japanese and their cross-linguistic parallels, and with [Kanta Tateno (University of Connecticut)](https://sites.google.com/view/kanta-tateno/) on several morphosemantic topics.
+I also enjoy collaborative research. I am currently working with [Akitaka Yamada](https://keiosfc-aki2025.github.io/Seminar/home.html) on benefactive applicative constructions in Japanese and their cross-linguistic parallels, and with [Kanta Tateno](https://sites.google.com/view/kanta-tateno/) on several topics in morphology and semantics, such as affixal negation and nominalization. In addition, I have been conducting experimental research on language acquisition under the supervision of [Chie Nakamura](https://sites.google.com/site/carumakan/home), using eye-tracking methods.
 
-Outside of linguistics, I enjoy playing classic Pokémon games, playing with [my Chihuahua](https://taikanagano.github.io/chihuahua/), going on drives with friends, and shopping (when my wallet allows it).
-
+Outside of linguistics, I enjoy going for drives with my friends, playing with [my Chihuahua](https://taikanagano.github.io/chihuahua/), and shopping at outlet malls (but only when I'm feeling "rich"!).
 
 News
 ======

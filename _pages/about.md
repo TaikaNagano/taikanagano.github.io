@@ -22,7 +22,7 @@ redirect_from:
     alt="Taika Nagano">
 </div>
 
-Hello! My name is Taika Nagano (pronounced <span class="ipa">/ˈtaɪkə nəˈɡɑːnoʊ/</span>). I am a PhD student at [the University of Osaka (Div. of Language and Culture, Graduate School of Humanities)](https://lc.hmt.osaka-u.ac.jp/english/home.html) and and currently a [JSPS](https://www.jsps.go.jp/english/) Research Fellow (DC2). I major in linguistics, with a special emphasis on syntax, morphology, and their interface.
+Hello! My name is Taika Nagano (pronounced <span class="ipa">[tɐꜜikɐ nɐꜜɡɐno]</span> in standard Japanese and <span class="ipa">/ˈtaɪkə nəˈɡɑːnoʊ/</span> by English speakers). I am a PhD student at [the University of Osaka (Div. of Language and Culture, Graduate School of Humanities)](https://lc.hmt.osaka-u.ac.jp/english/home.html) and and currently a [JSPS](https://www.jsps.go.jp/english/) Research Fellow (DC2). I major in linguistics, with a special emphasis on syntax, morphology, and their interface.
 
 Here's my latest [CV](/files/cv.pdf). 
 

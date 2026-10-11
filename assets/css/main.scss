@@ -101,6 +101,16 @@
   font-display: swap;
 }
 
+/* ===== Charis (IPA) ===== */
+
+@font-face {
+  font-family: "Charis";
+  src: url("../fonts/Charis-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
 @import
     "vendor/breakpoint/breakpoint",
 
@@ -523,4 +533,12 @@ html[data-theme="dark"] .misc-card:hover {
     "Yu Gothic",
     "Noto Sans JP",
     sans-serif !important;
+}
+
+/* ===== IPA ===== */
+
+.ipa {
+  font-family: "Charis", serif;
+  font-weight: 400;
+  letter-spacing: 0;
 }

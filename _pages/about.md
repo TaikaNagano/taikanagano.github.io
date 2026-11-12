@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-<!--
+
 
 <div class="handout-banner">
-    <a href="https://researchmap.jp/taikanagano/presentations/54260348/attachment_file.pdf" target="_blank" rel="noopener">Slides for DM meets Nano II</a>
+    <a href="/files/handout.pdf" target="_blank" rel="noopener">Handout for WECOL 2026</a>
 </div>
 
--->
+
 
 <div class="about-hero">
   <img

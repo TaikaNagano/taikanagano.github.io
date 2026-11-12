@@ -10,7 +10,7 @@ redirect_from:
 
 
 <div class="handout-banner">
-    <a href="/files/handout.pdf" target="_blank" rel="noopener">Handout for WECOL 2026</a>
+    <a href="/handout.pdf" target="_blank" rel="noopener">Handout for WECOL 2026</a>
 </div>
 
 

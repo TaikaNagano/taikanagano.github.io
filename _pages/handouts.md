@@ -21,3 +21,18 @@ Handouts for talks.
     </div>
   </div>
 </div>
+
+
+<div class="handout-entry">
+  <h2>DM meets Nano II | Masaryk Univ., Brno | Jul 7, 2026</h2>
+
+  <div class="handout-row">
+    <div class="handout-info">
+      <strong>Taika Nagano</strong><br>
+      A Nanosyntactic Analysis of Causative-Inchoative Alternations in Japanese
+    </div>
+    <div class="handout-link">
+      <a class="taglink" href="/files/handouts/dmmeetsnano2.pdf">slides</a>
+    </div>
+  </div>
+</div>

@@ -578,3 +578,12 @@ html[data-theme="dark"] .misc-card:hover {
   min-width: 4.5rem;
   text-align: center;
 }
+
+/* ===== Handouts divider ===== */
+
+.handout-divider {
+  border: none;
+  border-top: 1.5px solid #3333B3;
+  margin: 2.5rem 0;
+  opacity: 0.8;
+}

@@ -24,9 +24,6 @@ Handouts for talks.
 
 <hr class="handout-divider">
 
-<h2 class="handout-section-title">Previous Handouts</h2>
-
-
 <div class="handout-entry">
   <h2>DM meets Nano II | Masaryk Univ., Brno | Jul 7, 2026</h2>
 

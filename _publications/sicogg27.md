@@ -6,7 +6,7 @@ permalink: /publication/sicogg27
 excerpt: 'SICOGG 27 paper'
 date: 2025-08-16
 venue: 'The Korean Generative Grammar Circle'
-paperurl: 'https://researchmap.jp/taikanagano/published_papers/54260327/attachment_file.pdf'
+paperurl: 'https://drive.google.com/file/d/150SFON99WpWWJpNKAZCXi6neipdleAQ8/view'
 citation: 'Nagano, Taika (2025) "Decomposing causative/passive morphemes in Japanese," in <i>Proceedings of the 27th Seoul International Conference on Generative Grammar (SICOGG 27)</i>, A. Kang, Ed., The Korean Generative Grammar Circle, pp. 182--191.'
 ---
 

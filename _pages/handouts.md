@@ -16,7 +16,7 @@ Handouts for talks.
       A Distributed Morphology Analysis of Verbs of Giving in Japanese
     </div>
     <div class="handout-link">
-      <a class="taglink" href="/files/handouts/wecol2026.pdf">pdf</a>
+      <a class="taglink" href="/files/handouts/wecol2026.pdf">ho</a>
       <a class="taglink" href="/files/handouts/wecol2026slides.pdf">slides</a>
     </div>
   </div>

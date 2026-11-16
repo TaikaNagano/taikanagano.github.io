@@ -17,6 +17,7 @@ Handouts for talks.
     </div>
     <div class="handout-link">
       <a class="taglink" href="/files/handouts/wecol2026.pdf">pdf</a>
+      <a class="taglink" href="/files/handouts/wecol2026slides.pdf">slides</a>
     </div>
   </div>
 </div>
